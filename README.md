@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm an Electronics and Computer Engineering student with a deep interest in **low-level programming** and **embedded software development**. I focus on building systems close to the hardware — writing efficient C code, understanding microcontroller internals, and exploring the Linux ecosystem. My goal is to become a proficient **Embedded Software Engineer** who bridges hardware and software with precision.
+I'm an Electronics Engineer with a deep interest in **low-level programming** and **embedded software development**. I focus on building systems close to the hardware — writing efficient C code, understanding microcontroller internals, and exploring the Linux ecosystem. My goal is to become a proficient **Embedded Software Engineer** who bridges hardware and software with precision.
 
 - Currently mastering **Advanced C** and **Embedded C**
 - Exploring **Embedded Linux** and **System Programming**
