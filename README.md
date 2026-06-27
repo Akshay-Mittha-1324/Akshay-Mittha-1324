@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Akshay+Mittha;Electronics+%26+Computer+Engineering+Student;Embedded+Systems+Enthusiast;Low-Level+Programming+%7C+C+%7C+Linux" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Akshay+Mittha;Electronics+%26+Computer+Engineer;Embedded+Systems+Enthusiast;Low-Level+Programming+%7C+C+%7C+Linux" alt="Typing SVG" />
 
 </div>
 
