@@ -86,15 +86,15 @@ I'm an Electronics and Computer Engineering student with a deep interest in **lo
 
 ## Connect with Me
 
-<a href="https://linkedin.com/in/your-linkedin-username">
+<a href="https://www.linkedin.com/in/akshay-mittha/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:your.email@example.com">
+<a href="mailto:akshay134007@gmail.com.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://your-portfolio-website.com">
+<a href="https://github.com/Akshay-Mittha-1324">
   <img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
